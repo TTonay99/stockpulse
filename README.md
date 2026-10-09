@@ -1,7 +1,7 @@
 📦 StockPulse — POS & Sistema de Control de Inventario
 StockPulse es una aplicación Web Full-Stack de Punto de Venta (POS) y gestión de inventarios diseñada para optimizar el control de stock, acelerar el proceso de facturación/caja y brindar métricas clave de ventas en tiempo real para comercios y minoristas.
 
-🚀 Demo en vivo: https://stockpulse-two.vercel.app/
+🚀 Demo en vivo: stockpulse-xi-nine.vercel.app
 
 ✨ Características Principales
 🛒 Punto de Venta Dinámico: Procesamiento de ventas en tiempo real con soporte para búsqueda rápida por código o nombre.
