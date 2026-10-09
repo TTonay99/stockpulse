@@ -62,3 +62,5 @@ Si deseas ejecutar este proyecto en tu máquina local, sigue estos pasos:
 
 📄 Licencia
 Este proyecto fue desarrollado por Antony (Ttonay99) como parte de su portafolio profesional Full-Stack. Libre para uso educativo y de referencia.
+
+🌐 [Read this in English](README_EN.md)
